@@ -35,18 +35,6 @@ Never guess how much paint, flooring, or concrete you need again. BuildIQ provid
 
 ---
 
-## 🚀 Installation
-
-To build this project locally using **Android Studio** or **Termux**:
-
-1. Clone the repository:
-   `git clone https://github.com/CartonIQ/BuildIQ.git`
-2. Open the project in Android Studio.
-3. Sync Gradle and build the APK.
-
-*(Note: The project requires a `buildiq.jks` keystore to build the release version. Do not commit your keystore to GitHub!)*
-
----
 
 ## 👨‍💻 Developer
 
