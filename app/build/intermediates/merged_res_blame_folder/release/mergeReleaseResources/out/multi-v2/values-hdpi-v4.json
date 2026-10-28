@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cartoniq.buildiq.app-mergeReleaseResources-60:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/.gradle/caches/transforms-4/7db74a47f9308865057bad070e9589a5/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

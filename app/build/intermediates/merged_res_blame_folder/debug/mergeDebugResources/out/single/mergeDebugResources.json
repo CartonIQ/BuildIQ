@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_wallpaper.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_wallpaper.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_edit.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_prices.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_prices.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/layout_item_price_row.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/item_price_row.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/layout_item_input.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/item_input.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/layout_dialog_edit_project.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/dialog_edit_project.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_plus.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_decking.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_decking.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/layout_fragment_dashboard.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_gravel.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_gravel.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_grout.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_grout.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_fencing.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_fencing.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_copy.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_copy.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/layout_item_project.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/item_project.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_pdf.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_pdf.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_board.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_board.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_delete.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_info.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_door_window.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_door_window.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_bg_glass_dock.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/bg_glass_dock.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_drywall.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_drywall.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_tile.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_tile.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/layout_fragment_material_prices.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/fragment_material_prices.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_share.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_swap_units.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_swap_units.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/layout_dialog_measurement_hints.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/dialog_measurement_hints.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_soil.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_soil.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_ceiling.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_ceiling.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/layout_item_dashboard_card.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/item_dashboard_card.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_concrete.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_concrete.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_roofing.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_roofing.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/xml_file_paths.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/navigation_nav_graph.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/xml_data_extraction_rules.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_area.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_area.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/layout_activity_main.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_nav_projects.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_nav_projects.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_landscape.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_landscape.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_settings.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_empty_folder.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_empty_folder.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_paint.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_paint.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_nav_dashboard.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_nav_dashboard.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/color_nav_item_color.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/color/nav_item_color.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_primer.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_primer.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/xml_backup_rules.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/layout_fragment_calc.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/fragment_calc.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_mulch.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_mulch.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/layout_dialog_add_price.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/dialog_add_price.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/drawable_ic_flooring.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/drawable/ic_flooring.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/layout_fragment_settings.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-debug-62:/layout_fragment_projects.xml.flat",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/fragment_projects.xml"
+    }
+]

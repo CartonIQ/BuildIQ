@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.cartoniq.buildiq.DashboardFragment"
+        android:label="Dashboard"
+        tools:layout="@layout/fragment_dashboard">
+        <action
+            android:id="@+id/action_dashboard_to_calculator"
+            app:destination="@id/calculatorFragment" />
+        <action
+            android:id="@+id/action_dashboard_to_prices"
+            app:destination="@id/materialPricesFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/calculatorFragment"
+        android:name="com.cartoniq.buildiq.CalculatorFragment"
+        android:label="Calculator"
+        tools:layout="@layout/fragment_calc">
+        <argument
+            android:name="calcType"
+            app:argType="string"
+            android:defaultValue="paint" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/projectsFragment"
+        android:name="com.cartoniq.buildiq.ProjectsFragment"
+        android:label="Projects"
+        tools:layout="@layout/fragment_projects" />
+
+    <fragment
+        android:id="@+id/materialPricesFragment"
+        android:name="com.cartoniq.buildiq.MaterialPricesFragment"
+        android:label="Material Prices"
+        tools:layout="@layout/fragment_material_prices" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.cartoniq.buildiq.SettingsFragment"
+        android:label="Settings"
+        tools:layout="@layout/fragment_settings" />
+
+    <fragment
+        android:id="@+id/privacyPolicyFragment"
+        android:name="com.cartoniq.buildiq.PrivacyPolicyFragment"
+        android:label="Privacy Policy" />
+</navigation>

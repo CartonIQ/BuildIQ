@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="content_max_width">720dp</dimen>
+    <dimen name="screen_padding">32dp</dimen>
+    <integer name="dashboard_grid_columns">3</integer>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BuildIQ</string>
+    <string name="tagline">Calculate materials. Estimate costs. Build with confidence.</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_settings">Settings</string>
+    <string name="empty_projects">No projects saved yet.\nSelect a calculator to build your first estimate!</string>
+    <string name="privacy_url">https://cartoniq.com/buildiq/privacy</string>
+
+    <!-- Categories -->
+    <string name="cat_all">All</string>
+    <string name="cat_surfaces">Surfaces</string>
+    <string name="cat_flooring">Flooring &amp; Tile</string>
+    <string name="cat_framing">Structure &amp; Framing</string>
+    <string name="cat_roofing">Roofing &amp; Exterior</string>
+    <string name="cat_landscaping">Landscaping</string>
+
+    <!-- Actions -->
+    <string name="action_calculate">Calculate</string>
+    <string name="action_save_project">Save to Project</string>
+    <string name="action_add_to_project">Combine / Add to Project</string>
+    <string name="action_export_pdf">Export PDF Quote</string>
+    <string name="action_share_text">Share Text Estimate</string>
+    <string name="action_duplicate">Duplicate</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit Scope</string>
+</resources>

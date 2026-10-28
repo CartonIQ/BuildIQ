@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#121212</color>
+    <color name="surface">#1E1E24</color>
+    <color name="surface_variant">#2A2A30</color>
+    <color name="text_main">#F9FAFB</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="divider">#374151</color>
+    <color name="nav_glass">#F21E1E24</color>
+    <color name="nav_indicator">#374151</color>
+    <color name="white">#FFFFFF</color>
+    <color name="Safety_Orange">#FF8C00</color>
+    <color name="BuildIQ_Blue">#60A5FA</color>
+    <color name="BuildIQ_Blue_Dark">#3B82F6</color>
+    <color name="Success_Green">#22C55E</color>
+    <color name="Chip_Background">#374151</color>
+    <color name="Card_Border">#374151</color>
+</resources>

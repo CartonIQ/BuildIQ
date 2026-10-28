@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.cartoniq.buildiq.app-mergeDebugResources-61:/layout/item_input.xml",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/item_input.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-mergeDebugResources-61:/layout/activity_main.xml",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-mergeDebugResources-61:/layout/item_price_row.xml",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/item_price_row.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-mergeDebugResources-61:/layout/fragment_calc.xml",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/fragment_calc.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-mergeDebugResources-61:/layout/fragment_settings.xml",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-mergeDebugResources-61:/layout/fragment_projects.xml",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/fragment_projects.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-mergeDebugResources-61:/layout/dialog_measurement_hints.xml",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/dialog_measurement_hints.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-mergeDebugResources-61:/layout/item_dashboard_card.xml",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/item_dashboard_card.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-mergeDebugResources-61:/layout/dialog_add_price.xml",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/dialog_add_price.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-mergeDebugResources-61:/layout/fragment_material_prices.xml",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/fragment_material_prices.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-mergeDebugResources-61:/layout/item_project.xml",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/item_project.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-mergeDebugResources-61:/layout/fragment_dashboard.xml",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.cartoniq.buildiq.app-mergeDebugResources-61:/layout/dialog_edit_project.xml",
+        "source": "com.cartoniq.buildiq.app-main-64:/layout/dialog_edit_project.xml"
+    }
+]

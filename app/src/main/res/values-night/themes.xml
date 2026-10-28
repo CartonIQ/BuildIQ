@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BuildIQ" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/BuildIQ_Blue</item>
+        <item name="colorOnPrimary">@color/background</item>
+        <item name="colorSecondary">@color/Safety_Orange</item>
+        <item name="colorOnSecondary">@color/background</item>
+        <item name="colorSecondaryContainer">@color/nav_indicator</item>
+        <item name="colorOnSecondaryContainer">@color/text_main</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/text_main</item>
+        <item name="colorOnBackground">@color/text_main</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

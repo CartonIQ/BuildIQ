@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="16dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="16dp"
+    android:layout_marginBottom="8dp"
+    android:clickable="true"
+    android:focusable="true"
+    app:cardBackgroundColor="@color/surface"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="2dp"
+    app:strokeColor="@color/Card_Border"
+    app:strokeWidth="1dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/projectTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/text_main"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/projectSummary"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="13sp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/projectCost"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:textColor="@color/Success_Green"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/projectDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:textColor="@color/text_secondary"
+            android:textSize="11sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="8dp"
+            android:background="@color/divider" />
+
+        <!-- Action Row -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end|center_vertical"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/btnExportPdf"
+                android:layout_width="38dp"
+                android:layout_height="38dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:contentDescription="Export PDF"
+                android:src="@drawable/ic_pdf"
+                app:tint="@color/BuildIQ_Blue" />
+
+            <ImageButton
+                android:id="@+id/btnShareText"
+                android:layout_width="38dp"
+                android:layout_height="38dp"
+                android:layout_marginStart="4dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:contentDescription="Share Text"
+                android:src="@drawable/ic_share"
+                app:tint="@color/BuildIQ_Blue" />
+
+            <ImageButton
+                android:id="@+id/btnDuplicate"
+                android:layout_width="38dp"
+                android:layout_height="38dp"
+                android:layout_marginStart="4dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:contentDescription="Duplicate"
+                android:src="@drawable/ic_copy"
+                app:tint="@color/text_secondary" />
+
+            <ImageButton
+                android:id="@+id/btnEditProject"
+                android:layout_width="38dp"
+                android:layout_height="38dp"
+                android:layout_marginStart="4dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:contentDescription="Edit Scope / Client"
+                android:src="@drawable/ic_edit"
+                app:tint="@color/text_secondary" />
+
+            <ImageButton
+                android:id="@+id/deleteButton"
+                android:layout_width="38dp"
+                android:layout_height="38dp"
+                android:layout_marginStart="4dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:contentDescription="Delete"
+                android:src="@drawable/ic_delete"
+                app:tint="#EF4444" />
+        </LinearLayout>
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="BuildIQ_Blue">#1976D2</color>
+    <color name="BuildIQ_Blue_Dark">#1565C0</color>
+    <color name="Card_Border">#FDE0B2</color>
+    <color name="Chip_Background">#FFFFFF</color>
+    <color name="Safety_Orange">#FF8C00</color>
+    <color name="Success_Green">#4CAF50</color>
+    <color name="background">#E8DCC8</color>
+    <color name="divider">#FDE0B2</color>
+    <color name="nav_glass">#F2FFFFFF</color>
+    <color name="nav_indicator">#FFEDD5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#FFFFFF</color>
+    <color name="text_main">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="content_max_width">600dp</dimen>
+    <dimen name="screen_padding">16dp</dimen>
+    <integer name="dashboard_grid_columns">2</integer>
+    <string name="action_add_to_project">Combine / Add to Project</string>
+    <string name="action_calculate">Calculate</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_duplicate">Duplicate</string>
+    <string name="action_edit">Edit Scope</string>
+    <string name="action_export_pdf">Export PDF Quote</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_save_project">Save to Project</string>
+    <string name="action_share_text">Share Text Estimate</string>
+    <string name="app_name">BuildIQ</string>
+    <string name="cat_all">All</string>
+    <string name="cat_flooring">Flooring &amp; Tile</string>
+    <string name="cat_framing">Structure &amp; Framing</string>
+    <string name="cat_landscaping">Landscaping</string>
+    <string name="cat_roofing">Roofing &amp; Exterior</string>
+    <string name="cat_surfaces">Surfaces</string>
+    <string name="empty_projects">No projects saved yet.\nSelect a calculator to build your first estimate!</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_settings">Settings</string>
+    <string name="privacy_url">https://cartoniq.com/buildiq/privacy</string>
+    <string name="tagline">Calculate materials. Estimate costs. Build with confidence.</string>
+    <style name="TextAppearance.BuildIQ.Hint" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+    <style name="Theme.BuildIQ" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/BuildIQ_Blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/Safety_Orange</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondaryContainer">@color/nav_indicator</item>
+        <item name="colorOnSecondaryContainer">@color/text_main</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/text_main</item>
+        <item name="colorOnBackground">@color/text_main</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Widget.BuildIQ.Button" parent="Widget.Material3.Button">
+        <item name="android:minHeight">54dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="backgroundTint">@color/BuildIQ_Blue</item>
+        <item name="cornerRadius">14dp</item>
+    </style>
+    <style name="Widget.BuildIQ.Button.Secondary" parent="Widget.Material3.Button.TonalButton">
+        <item name="android:minHeight">48dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+    <style name="Widget.BuildIQ.TextInput" parent="Widget.Material3.TextInputLayout.FilledBox">
+        <item name="boxCornerRadiusTopStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+        <item name="boxBackgroundColor">@color/surface</item>
+        <item name="boxStrokeColor">@color/divider</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxStrokeWidthFocused">2dp</item>
+        <item name="hintTextAppearance">@style/TextAppearance.BuildIQ.Hint</item>
+        <item name="android:textColorHint">@color/text_secondary</item>
+    </style>
+</resources>

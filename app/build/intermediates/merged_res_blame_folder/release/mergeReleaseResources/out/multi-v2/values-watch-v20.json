@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cartoniq.buildiq.app-mergeReleaseResources-60:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/.gradle/caches/transforms-4/7db74a47f9308865057bad070e9589a5/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

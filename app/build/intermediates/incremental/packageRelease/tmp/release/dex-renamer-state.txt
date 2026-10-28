@@ -1,0 +1,4 @@
+#Wed Oct 28 19:13:08 GMT 2026
+base.0=/data/data/com.termux/files/home/BuildIQ/BuildIQ/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
